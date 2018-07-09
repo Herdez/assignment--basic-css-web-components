@@ -1,0 +1,15 @@
+p {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: rgb(127, 129, 129);
+}
+
+hr{
+    height: 1px;
+    background-color: black;
+}
+
+img{
+    height: 30px;
+    margin-bottom: 10px;
+}

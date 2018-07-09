@@ -1,0 +1,41 @@
+.navigation {
+    font-size: 40px;
+    font-family: Futura;
+    margin-bottom: 20px;
+    font-weight: inherit;
+}
+
+.menu{
+    background: rgb(205,92,92);
+    color: white;
+    margin: 4px;
+    padding: 6px;
+    display: inline-block;
+}
+
+.nav{
+    text-align: center;
+}
+
+.container{
+    width: 570px;
+}
+
+.search{
+    border: none;
+    border-bottom: 1px solid gray;
+    padding-bottom: 1px;
+    margin-left: 15px;
+}
+
+.summer{
+    color: rgb(127, 130, 130);
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.current{
+    color: rgb(100, 100, 100);
+    font-weight: bold;
+    font-size: 17px;
+}

@@ -1,0 +1,50 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #FBF9F1;
+}
+
+.container {
+	width: 674px;
+	margin-top: 50px;
+	margin-left: 150px;
+	font-family: 'Georgia', 'Palatino', 'serif', geneva, ubuntu, sans-serif;
+}
+
+.paragraph {
+	line-height: 1.25;
+	font-size: 28px;
+	margin-bottom: 10px;
+}
+
+a {
+	color: #77A8D2;
+	text-decoration: none;
+}
+
+#hello-style {
+    font-size: 59px;
+    margin-bottom: 10px;
+}
+
+.bolton-style {
+	font-size: 35px;
+    
+}
+
+.sub {
+	text-decoration: underline;
+}
+
+.black {
+	color: white;
+	background: black;
+}
+
+
+
+
+
+

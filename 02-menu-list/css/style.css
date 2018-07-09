@@ -1,0 +1,23 @@
+*{
+	box-sizing: border-box;
+}
+
+.vertical-menu {
+    width: 350px;
+}
+
+.vertical-menu a {
+    background-color: white;
+    color: black;
+    display: block;
+    padding: 16px;
+    border: 1px solid grey;
+    text-decoration: none;
+    font-family: 'Avenir';
+}
+
+
+.vertical-menu a.active {
+    color: #66CC99;
+}
+
